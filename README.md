@@ -19,7 +19,7 @@
 
 Hey, I'm **Punsara** 👋 — a solo builder based in Sri Lanka. I don't fit neatly into one label — part developer, part designer, part strategist. I work on **content, automation, and growth systems**, mostly helping small hospitality & tourism businesses get online, get booked, and grow.
 
-- 🧩 Building **Alunith** — my own brand/product line
+- 🧩 Building  — my own brand/product line
 - ⚙️ Into AI tooling, automation pipelines & web systems
 - 🌱 Always learning — software, business, and how to make ideas ship faster
 - 💬 Open to freelance work in content, automation & growth
