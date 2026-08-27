@@ -1,10 +1,12 @@
 <div align="center">
-<img src="./profile-card.svg" alt="punsara profile card" width="900"/>
+<img src="./banner.svg" width="100%" alt="banner"/>
 </div>
 
 <div align="center">
-<img src="./banner.svg" width="100%" alt="banner"/>
+<img src="./profile-card.svg" alt="punsara profile card" width="900"/>
 </div>
+
+
 
 <p align="center">
 <a href="https://punsara.pages.dev"><img src="https://img.shields.io/badge/WEBSITE-punsara.pages.dev-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
