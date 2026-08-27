@@ -1,10 +1,9 @@
-
 <div align="center">
-<img src="./banner.svg" width="100%" alt="banner"/>
+<img src="./profile-card.svg" alt="punsara profile card" width="900"/>
 </div>
 
 <div align="center">
-<img src="./profile-card.svg" alt="punsara profile card" width="900"/>
+<img src="./banner.svg" width="100%" alt="banner"/>
 </div>
 
 <p align="center">
