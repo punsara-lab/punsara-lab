@@ -42,10 +42,10 @@ Hey, I'm **Punsara** 👋 — a solo builder based in Sri Lanka. I don't fit nea
 
 ## `Statistics`
 
-<p align="center"> <img height="165" src="https://github-stats-extended.vercel.app/api?username=punsara-lab&show_icons=true&hide_border=true&bg_color=0D0D16&title_color=67E8F9&icon_color=B794F6&text_color=F1EFFF&ring_color=8B5CF6"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=punsara-lab&hide_border=true&background=0D0D16&ring=8B5CF6&fire=F5A96B&currStreakLabel=67E8F9&sideLabels=F1EFFF&currStreakNum=F1EFFF&sideNums=F1EFFF&dates=4B4B63"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=punsara-lab&bg_color=0D0D16&color=67E8F9&line=8B5CF6&point=F5A96B&hide_border=true&area=true"/> </p> <br> <div align="center"> <sub>Build in silence. · Create. Automate. Repeat. · Ideas → Systems → Reality</sub> </div>
+<p align="center"> <img height="165" src="https://github-stats-extended.vercel.app/api?username=punsara-lab&show_icons=true&hide_border=true&bg_color=0D0D16&title_color=67E8F9&icon_color=B794F6&text_color=F1EFFF&ring_color=8B5CF6"/> </p>
 
-<br>
 
-<div align="center">
-<sub>Build in silence. · Create. Automate. Repeat. · Ideas → Systems → Reality</sub>
+<br> 
+<div align="center"> <sub>Build in silence. · Create. Automate. Repeat. · Ideas → Systems → Reality</sub>
 </div>
+
