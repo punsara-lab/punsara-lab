@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Punsara 👋
 
-<!--
-**punsara-lab/punsara-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Solo developer building under PUNSARA — [short tagline]
 
-Here are some ideas to get you started:
+## What I build
+- Brief line about your focus (web apps, automation, tools, etc.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+Python · React · TypeScript
+
+## Find me
+- Website: [your site]
+- Instagram: [handle]
