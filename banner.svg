@@ -1,0 +1,31 @@
+<svg width="1400" height="340" viewBox="0 0 1400 340" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+<stop offset="0%" stop-color="#0A0A12"/>
+<stop offset="55%" stop-color="#15101F"/>
+<stop offset="100%" stop-color="#1C1428"/>
+</linearGradient>
+<linearGradient id="mtGrad1" x1="0%" y1="0%" x2="0%" y2="100%">
+<stop offset="0%" stop-color="#3B2E63"/>
+<stop offset="100%" stop-color="#120E1C"/>
+</linearGradient>
+<linearGradient id="mtGrad2" x1="0%" y1="0%" x2="0%" y2="100%">
+<stop offset="0%" stop-color="#7C3AED" stop-opacity="0.55"/>
+<stop offset="100%" stop-color="#0A0A12" stop-opacity="0.9"/>
+</linearGradient>
+<radialGradient id="moonGlow" cx="50%" cy="50%" r="50%">
+<stop offset="0%" stop-color="#B794F6" stop-opacity="0.9"/>
+<stop offset="100%" stop-color="#B794F6" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="1400" height="340" fill="url(#skyGrad)"/>
+
+<circle cx="1180" cy="90" r="70" fill="url(#moonGlow)"/>
+<circle cx="1180" cy="90" r="30" fill="#EDE9FE"/>
+
+<path d="M0,260 L120,150 L230,230 L340,110 L460,240 L560,160 L680,250 L800,120 L900,235 L1020,150 L1140,245 L1260,140 L1400,230 L1400,340 L0,340 Z" fill="url(#mtGrad1)" opacity="0.9"/>
+<path d="M0,300 L160,210 L300,270 L440,190 L600,290 L760,200 L920,285 L1080,205 L1240,280 L1400,215 L1400,340 L0,340 Z" fill="url(#mtGrad2)"/>
+
+<text x="700.0" y="150" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="34" font-weight="700" fill="#F5F3FF" text-anchor="middle" letter-spacing="1">Welcome to Punsara&#8217;s GitHub</text>
+<text x="700.0" y="185" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" fill="#B794F6" text-anchor="middle" letter-spacing="4">&lt;/&gt;  SOLO  &#183;  BUILDING THINGS</text>
+</svg>
