@@ -42,9 +42,7 @@ Hey, I'm **Punsara** 👋 — a solo builder based in Sri Lanka. I don't fit nea
 
 <br>
 
-## `Statistics`
 
-<p align="center"> <img height="165" src="https://github-stats-extended.vercel.app/api?username=punsara-lab&show_icons=true&hide_border=true&bg_color=0D0D16&title_color=67E8F9&icon_color=B794F6&text_color=F1EFFF&ring_color=8B5CF6"/> </p>
 
 
 <br> 
