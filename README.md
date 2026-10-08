@@ -42,10 +42,14 @@ Hey, I'm **Punsara** 👋 — a solo builder based in Sri Lanka. I don't fit nea
 
 <br>
 
+## `Support`
 
+<p align="center">
+If something I built helped you, a coffee keeps the next thing coming.
+</p>
 
+<p align="center">
+<a href="https://buymeacoffee.com/yourusername"><img src="./buy-me-a-coffee.svg" alt="Buy me a coffee" width="260"/></a>
+</p>
 
-<br> 
-<div align="center"> <sub>Build in silence. · Create. Automate. Repeat. · Ideas → Systems → Reality</sub>
-</div>
-
+<br>
