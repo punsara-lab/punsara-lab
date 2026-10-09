@@ -6,14 +6,13 @@
 <img src="./profile-card.svg" alt="punsara profile card" width="900"/>
 </div>
 
-
-
 <p align="center">
 <a href="https://punsara.pages.dev"><img src="https://img.shields.io/badge/WEBSITE-punsara.pages.dev-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="mailto:hello.punsara@gmail.com"><img src="https://img.shields.io/badge/EMAIL-hello.punsara-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/punsara.arc"><img src="https://img.shields.io/badge/INSTAGRAM-punsara.arc-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://facebook.com/punsara"><img src="https://img.shields.io/badge/FACEBOOK-punsara-8B5CF6?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-</p> add pintrest
+<a href="https://facebook.com/hello.punsara"><img src="https://img.shields.io/badge/FACEBOOK-hello.punsara-8B5CF6?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://pinterest.com/hello.punsara"><img src="https://img.shields.io/badge/PINTEREST-hello.punsara-8B5CF6?style=for-the-badge&logo=pinterest&logoColor=white"/></a>
+</p>
 
 <br>
 
@@ -45,11 +44,11 @@ Hey, I'm **Punsara** 👋 — a solo builder based in Sri Lanka. I don't fit nea
 ## `Support`
 
 <p align="center">
-If something I built helped you, a coffee keeps the next thing coming.
+If something I built helped you, a lavender latte 🪻 keeps the next thing coming.
 </p>
 
 <p align="center">
-<a href="https://buymeacoffee.com/punsara"><img src="./buy-me-a-coffee.svg" alt="Buy me a coffee" width="260"/></a>
+<a href="https://buymeacoffee.com/punsara"><img src="./buy-me-a-coffee.svg" alt="Buy me a lavender latte" width="260"/></a>
 </p>
 
 <br>
