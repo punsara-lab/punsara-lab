@@ -13,7 +13,7 @@
 <a href="mailto:hello.punsara@gmail.com"><img src="https://img.shields.io/badge/EMAIL-hello.punsara-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/punsara.arc"><img src="https://img.shields.io/badge/INSTAGRAM-punsara.arc-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://facebook.com/punsara"><img src="https://img.shields.io/badge/FACEBOOK-punsara-8B5CF6?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-</p>
+</p> add pintrest
 
 <br>
 
